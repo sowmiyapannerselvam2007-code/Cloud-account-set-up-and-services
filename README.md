@@ -1,11 +1,11 @@
 
 Exp: 1 Cloud-account-set-up-and-services
-Name: p sowmiya
-Register No: 212225240152
-Aim:
+## Name: p sowmiya
+## Register No: 212225240152
+## Aim:
 To create an cloud account in AWS and to explore all of its services.
 
-Procedure
+## Procedure
 Step 1: Go to the AWS Website
 • Visit https://aws.amazon.com
 
@@ -74,13 +74,13 @@ Sign in as the user with administrative access
 To sign in with your IAM Identity Center user, use the sign-in URL that was sent to your email address when you created the IAM Identity Center user.
 
 
-Services Overview:
+## Services Overview:
 • Explore all the available services in AWS platform.
 
 
-Output:
+## Output:
 <img width="1600" height="634" alt="image" src="https://github.com/user-attachments/assets/395b24f3-7a72-4f51-9920-35b5653eb7bb" />
 <img width="1600" height="766" alt="image" src="https://github.com/user-attachments/assets/4697cd09-6165-46fc-a8e3-7e13acfe850e" />
 
-Result:
+## Result:
 Thus an account was created in AWS platform and all the services were explored.
